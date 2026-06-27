@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#dff3ea"/><stop offset="1" stop-color="#fff"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".12"/></filter></defs>
+<rect width="900" height="600" fill="url(#g)"/><circle cx="750" cy="95" r="160" fill="#176b4d" opacity=".08"/><circle cx="145" cy="545" r="210" fill="#176b4d" opacity=".06"/>
+<rect x="225" y="120" width="450" height="330" rx="42" fill="#fff" filter="url(#s)"/><rect x="265" y="160" width="370" height="190" rx="28" fill="#dff3ea"/><circle cx="450" cy="255" r="78" fill="#176b4d" opacity=".92"/><text x="450" y="270" text-anchor="middle" font-family="Arial" font-size="42" font-weight="800" fill="#fff">CAM</text>
+<text x="450" y="395" text-anchor="middle" font-family="Arial" font-size="18" letter-spacing="4" font-weight="700" fill="#176b4d">KAMERA</text><text x="450" y="426" text-anchor="middle" font-family="Arial" font-size="25" font-weight="800" fill="#26352d">Sony A6400</text>
+</svg>
