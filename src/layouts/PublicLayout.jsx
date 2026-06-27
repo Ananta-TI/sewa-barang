@@ -37,7 +37,7 @@ export default function PublicLayout() {
         </div>
         <div className="container footer-bottom">
           <span>© 2026 SewaBarangSekitar</span>
-          <span>Proyek akademik Ridwan Abrilla ganteng sekali mantap</span>
+          <span>side project Ananta Firdaus</span>
         </div>
       </footer>
     </div>
